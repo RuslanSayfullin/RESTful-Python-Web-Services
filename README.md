@@ -1,0 +1,2 @@
+# RESTful-Python-Web-Services
+REST (short for REpresentational State Transfer) is the architectural style that is driving modern web development and mobile app development. In fact, developing and interacting with RESTful web services is a required skill in any modern software development job. Sometimes, you have to interact with an existing API and in other cases, you have to design a RESTful API from scratch and make it work with JSON (short for JavaScript Object Notation)
